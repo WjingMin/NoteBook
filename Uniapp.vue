@@ -1,4 +1,4 @@
-/*UNIapp定位(高德地图示例)*/
+//*UNIapp定位(高德地图示例)*/
 1.data中定义{
     amapPlugin: null,
     key: '19e7777b7df16b1ec30c4995e81446a2',//密钥
